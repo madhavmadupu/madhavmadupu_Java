@@ -19,6 +19,7 @@ public class Fibonnacci {
 			b=c;
 			
 		}
+		sc.close();
 	}
 
 }

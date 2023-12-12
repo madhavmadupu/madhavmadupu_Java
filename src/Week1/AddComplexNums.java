@@ -15,5 +15,6 @@ public class AddComplexNums {
 		int real_sum = real1 + real2;
 		int img_sum = img1 + img2;
 		System.out.println("Finam Imaginary Number is "+real_sum+"+"+img_sum+"i");
-		}
+		sc.close();	
+	}
 }
