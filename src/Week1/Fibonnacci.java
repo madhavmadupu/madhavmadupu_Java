@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class Fibonnacci {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		int n;
 		int a=0;
 		int b=1;
@@ -17,7 +16,6 @@ public class Fibonnacci {
 			int c=a+b;
 			a=b;
 			b=c;
-			
 		}
 		sc.close();
 	}
